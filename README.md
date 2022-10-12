@@ -36,7 +36,7 @@ Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Roc
 -  [Node.js](https://nodejs.org/en/)
 -  [ReactJS](https://reactjs.org/)
 -  [Express](https://expressjs.com/)
--  [axios](https://github.com/axios/axios)
+-  [Axios](https://github.com/axios/axios)
 
 ## :boom: Como Executar
 
