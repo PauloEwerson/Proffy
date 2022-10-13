@@ -1,6 +1,6 @@
 <h1 align="center">
     <img alt="Proffy" src=".github/logo.svg" height="100px" />
-    <br>Next Level Week #2<br/>
+    <br>Next Level Week <br/>
     Node.js | ReactJS
 </h1>
 
