@@ -24,7 +24,7 @@
 
 ## :bookmark: Sobre
 
-O **Proffy** é uma aplicação Web feita para auxiliar na conexão entre os alunos e professores. Logo, esta aplicação oferece aos professores a possibilidade de registrar aulas, podendo adicionar informações como a disciplina, custo e horário e aos alunos a possibilidade de buscar pelas aulas cadastradas.
+O **Proffy** é uma aplicação Web desenvolvida para auxiliar a conexão entre os alunos e professores, possibilitando registrar aulas, adicionar informações como a disciplina, custo e horário das aulas, bem como a possibilidade de buscar pelas aulas cadastradas.
 
 Este projeto foi desenvolvido com inspiração na data **6 de agosto**, onde se comemora o **Dia Nacional dos Profissionais da Educação**.
 
